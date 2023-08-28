@@ -6,7 +6,7 @@ Library code (Python modules) goes in the `findoutlie` directory.
 
 You should put the code in this `findoutlie` directory on your Python PATH.
 
-This README file has instructions on how to get, validate and process the data.
+This `README.md` file has instructions on how to get, validate and process the data.
 
 ## Get the data
 
